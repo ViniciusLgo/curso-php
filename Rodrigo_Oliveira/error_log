@@ -1,0 +1,14 @@
+[06-May-2023 03:42:37 UTC] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 6
+[06-May-2023 03:42:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NOME" in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 11
+[06-May-2023 03:44:08 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ".nome.", expecting "," or ";" in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 12
+[06-May-2023 03:44:14 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "," or ";" in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 12
+[06-May-2023 03:45:08 UTC] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 6
+[06-May-2023 03:45:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NOME" in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 10
+[06-May-2023 03:45:19 UTC] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 6
+[06-May-2023 03:45:29 UTC] PHP Warning:  define(): Argument #3 ($case_insensitive) is ignored since declaration of case-insensitive constants is no longer supported in C:\xampp\htdocs\cursophp\Rodrigo_Oliveira\07_constantes.php on line 6
